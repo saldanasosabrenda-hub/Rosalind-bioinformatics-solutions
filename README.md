@@ -9,3 +9,4 @@ Transcribing DNA into RNA | Open a file and read line by line with `.readline()`
 Rabits and recurrence relation | Loops with `range` and overwrite variables to use them with dif values
 Computing GC Content | Utilized dictionaries to store, organize, and retrieve data efficiently
 Counting point mutations | use the `zip()` method 
+Mendel's first law | How to use Python as an automated calculator by passing input values  
