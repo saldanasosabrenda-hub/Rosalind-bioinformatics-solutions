@@ -10,4 +10,4 @@ Rabits and recurrence relation | Loops with `range` and overwrite variables to u
 Computing GC Content | Utilized dictionaries to store, organize, and retrieve data efficiently
 Counting point mutations | use the `zip()` method 
 Mendel's first law | How to use Python as an automated calculator by passing input values
-Translating DNA to RNA | Use of dictionaries 
+Translating RNA to protein | Use of dictionaries 
