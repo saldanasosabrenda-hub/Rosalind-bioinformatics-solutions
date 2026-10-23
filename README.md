@@ -11,3 +11,4 @@ Computing GC Content | Utilized dictionaries to store, organize, and retrieve da
 Counting point mutations | use the `zip()` method 
 Mendel's first law | How to use Python as an automated calculator by passing input values
 Translating RNA to protein | Use of dictionaries 
+Finding a Motif in DNA | Use `range` with the `len` of a strip
