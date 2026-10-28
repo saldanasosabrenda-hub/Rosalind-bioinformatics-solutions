@@ -13,4 +13,4 @@ Mendel's first law | How to use Python as an automated calculator by passing inp
 Translating RNA to protein | Use of dictionaries 
 Finding a Motif in DNA | Use `range` with the `len()` of a strip
 Consensus and Profile | Use Loops and `range` multiple times, list and dictionaries all together
-Mortal fibonacci rabbits  | 
+Mortal fibonacci rabbits  | Manage lists dynamically to remove or shift expired elements
