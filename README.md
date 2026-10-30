@@ -5,6 +5,7 @@ Title | What I learned
 ---|---
 Counting DNA nucleotides| Use the `.count()` method
 Counting DNA nucleotides 2 | Open a file and read it, use `for`, `if`, and `elif`  
+Transcribir DNA to RNA | `.tranaslate()` and `.replace()`
 Transcribing DNA into RNA | Open a file and read line by line with `.readline()` and `.replace()` command
 Rabits and recurrence relation | Loops with `range` and overwrite variables to use them with dif values
 Computing GC Content | Utilized dictionaries to store, organize, and retrieve data efficiently
