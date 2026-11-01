@@ -16,3 +16,4 @@ Finding a Motif in DNA | Use `range` with the `len()` of a strip
 Consensus and Profile | Use Loops and `range` multiple times, list and dictionaries all together
 Mortal fibonacci rabbits  | Manage lists dynamically to remove or shift expired elements
 Overlap graphs | Use string slicing and nested loops to find prefix-suffix overlaps
+Calculating expected offspring | To use the `def` command 
