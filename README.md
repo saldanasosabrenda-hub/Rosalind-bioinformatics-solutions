@@ -17,4 +17,4 @@ Consensus and Profile | Use Loops and `range` multiple times, list and dictionar
 Mortal fibonacci rabbits  | Manage lists dynamically to remove or shift expired elements
 Overlap graphs | Use string slicing and nested loops to find prefix-suffix overlaps
 Calculating expected offspring | To use the `def` command 
-Finding a shared motif | 
+Finding a shared motif | Using nested loops alongside `max` and `min` functions
