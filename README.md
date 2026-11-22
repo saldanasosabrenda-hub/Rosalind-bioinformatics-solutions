@@ -19,3 +19,4 @@ Overlap graphs | Use string slicing and nested loops to find prefix-suffix overl
 Calculating expected offspring | To use the `def` command 
 Finding a shared motif | Using nested loops alongside `max` and `min` functions
 Independent alleles | To use `def` and solve multiples formulas 
+Finfing a protein motif | 
