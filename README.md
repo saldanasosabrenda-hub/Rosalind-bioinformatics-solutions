@@ -20,3 +20,4 @@ Calculating expected offspring | To use the `def` command
 Finding a shared motif | Using nested loops alongside `max` and `min` functions
 Independent alleles | To use `def` and solve multiples formulas 
 Finfing a protein motif | Using `urllib.request` to access to data direct from an online database 
+RNA from protein | To use modular arithmetic to avoid computational pitfalls
