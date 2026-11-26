@@ -7,7 +7,7 @@ Counting DNA nucleotides| Use the `.count()` method
 Counting DNA nucleotides 2 | Open a file and read it, use `for`, `if`, and `elif`  
 Transcribing DNA into RNA | Open a file and read line by line with `.readline()` and `.replace()` command
 Complementing a strand of DNA | Using the `.translate()` command 
-Rabits and recurrence relation | Loops with `range` and overwrite variables to use them with dif values
+Rabits and recurrence relation | Loops with `range` and overwrite variables to use them with different values
 Computing GC Content | Utilized dictionaries to store, organize, and retrieve data efficiently
 Counting point mutations | use the `zip()` method 
 Mendel's first law | How to use Python as an automated calculator by passing input values
@@ -19,6 +19,7 @@ Overlap graphs | Use string slicing and nested loops to find prefix-suffix overl
 Calculating expected offspring | To use the `def` command 
 Finding a shared motif | Using nested loops alongside `max` and `min` functions
 Independent alleles | To use `def` and solve multiples formulas 
-Finfing a protein motif | Using `urllib.request` to access to data direct from an online database 
+Finding a protein motif | Using `urllib.request` to access to data direct from an online database 
 RNA from protein | To use modular arithmetic to avoid computational pitfalls
-Open reading frames | 
+Open reading frames | Combine nested loops, step slicing, and `set()` to find and avoid duplicate reading frames
+Enumerating gene order |
